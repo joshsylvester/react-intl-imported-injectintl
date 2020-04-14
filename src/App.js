@@ -1,7 +1,7 @@
 import React from "react";
 import { IntlProvider } from "react-intl";
 import LocalIntlTextField from "./LocalIntlTextField";
-//import { TextField, IntlTextField } from "sylvester-component-library";
+import { TextField, IntlTextField } from "sylvester-component-library";
 
 const intlMessages = {};
 
